@@ -4,9 +4,7 @@
 #xhofe/alist:latest
 #xhongc/music_tag_web:latest
 #ghcr.io/immich-app/immich-machine-learning:pr-11165
-ghcr.io/immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
 #ghcr.io/immich-app/immich-server:pr-11165
-ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
 #ghcr.io/immich-app/immich-web:main
 #ghcr.io/immich-app/immich-proxy:main
 #ghcr.io/immich-app/immich-cli:2.2.11
