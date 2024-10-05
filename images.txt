@@ -17,8 +17,9 @@
 #nipy/heudiconv
 #snowdreamtech/frpc
 #p3terx/aria2-pro
-p3terx/ariang
+#p3terx/ariang
 #linuxserver/qbittorrent
 #linuxserver/heimdall
+messense/aliyundrive-webdav
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
