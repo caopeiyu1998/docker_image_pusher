@@ -14,7 +14,10 @@
 #natpierce/natpierce:latest
 #hlohaus789/g4f:latest
 #yidadaa/chatgpt-next-web
-nipy/heudiconv
-#snowdreamtech/frpc
+#nipy/heudiconv
+snowdreamtech/frpc
+p3terx/aria2-pro
+linuxserver/qbittorrent
+linuxserver/heimdall
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
