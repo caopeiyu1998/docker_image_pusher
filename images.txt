@@ -20,6 +20,7 @@
 #p3terx/ariang
 #linuxserver/qbittorrent
 #linuxserver/heimdall
-messense/aliyundrive-webdav
+#messense/aliyundrive-webdav
+linuxserver/syncthing
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
