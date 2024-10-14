@@ -3,12 +3,6 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #xhongc/music_tag_web:latest
-#ghcr.io/immich-app/immich-machine-learning:pr-11165
-#ghcr.io/immich-app/immich-server:pr-11165
-#ghcr.io/immich-app/immich-web:main
-#ghcr.io/immich-app/immich-proxy:main
-#ghcr.io/immich-app/immich-cli:2.2.11
-#ghcr.io/immich-app/immich-cli:latest
 #docker.io/redis:6.2-alpine@sha256:328fe6a5822256d065debb36617a8169dbfbd77b797c525288e465f56c1d392b
 #docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 #natpierce/natpierce:latest
@@ -21,6 +15,10 @@
 #linuxserver/qbittorrent
 #linuxserver/heimdall
 #messense/aliyundrive-webdav
-linuxserver/syncthing
+#linuxserver/syncthing
+ghcr.io/immich-app/immich-server
+immich_machine_learning
+immich_redis
+immich_postgres
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
