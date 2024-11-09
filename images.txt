@@ -2,7 +2,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-xhongc/music_tag_web:latest
+#xhongc/music_tag_web:latest
 #docker.io/redis:6.2-alpine@sha256:328fe6a5822256d065debb36617a8169dbfbd77b797c525288e465f56c1d392b
 #docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 #natpierce/natpierce:latest
@@ -21,5 +21,6 @@ xhongc/music_tag_web:latest
 #docker.io/redis:6.2-alpine@sha256:2d1463258f2764328496376f5d965f20c6a67f66ea2b06dc42af351f75248792
 #docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 #ghcr.io/nipreps/fmriprep:master
+deluan/navidrome
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
