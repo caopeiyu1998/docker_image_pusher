@@ -22,5 +22,6 @@
 #ghcr.io/nipreps/fmriprep:master
 #deluan/navidrome
 #支持指定架构
-jellyfin/jellyfin
+#jellyfin/jellyfin
 #--platform=linux/arm64 xiaoyaliu/alist
+homeassistant/home-assistant:sha256-603d76a2c6f37ee5ca8aaa73b47e0e7d2aa90326c88525b6782520da8b5a416b.sig
