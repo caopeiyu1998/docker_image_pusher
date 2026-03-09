@@ -24,4 +24,4 @@
 #jellyfin/jellyfin:2024032505-amd64
 #--platform=linux/arm64 xiaoyaliu/alist
 #homeassistant/home-assistant:dev
-kilianhett/chp_seg:1.0.0
+kilianhett/chp_seg:1.0.1
